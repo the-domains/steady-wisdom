@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[steady wisdom]]></title>
         <description><![CDATA[steady wisdom]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/steady-wisdom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 05:08:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 15 Jun 2016 05:08:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/steady-wisdom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What if Money Were No Object- Alan Watts]]></title>
+            <description><![CDATA[<article><h1>What if Money Were No Object- Alan Watts</h1><p>A video illustrator of Alan Watts famous lecture on what we desire. Alan discusses that we shouldn't depend on the money to be happy and successful at what we do. Rather we should chase our passion and leap into what we will truly love to do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da7ef9be28d695fa46bb9307e02b061ff9c70000.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=yNqvXiUNe2o</link>
+            <guid isPermaLink="false">28ca8750-f333-404b-abd9-552b9083a3a9</guid>
+            <pubDate>Wed, 15 Jun 2016 05:08:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Raven]]></title>
             <description><![CDATA[<article><h1>The Raven</h1><p>Once upon a midnight dreary, while I pondered, weak and weary, Over many a quaint and curious volume of forgotten lore- While I nodded, nearly napping, suddenly there came a tapping, As of some one gently rapping, rapping at my chamber door. "'Tis some visitor," I muttered, "tapping at my chamber door- Only this and nothing more."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ded580296fdd478b076355125b39acba721cea9.png"></article>]]></description>
