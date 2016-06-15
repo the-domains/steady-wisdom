@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://www.kiplingsociety.co.uk/kip_fra.htm'
 title: Rudyard Kipling frame
-datePublished: '2016-06-15T04:57:17.443Z'
-dateModified: '2016-06-15T04:54:59.524Z'
+datePublished: '2016-06-15T04:57:17.452Z'
+dateModified: '2016-06-15T04:52:18.815Z'
 starred: false
 sourcePath: _posts/2016-06-15-rudyard-kipling-frame.md
 inFeed: true
