@@ -1,0 +1,14 @@
+layout_spectrum: 0.1054069644305855
+typography_spectrum: 0.48854043264873326
+color:
+  brandStrength: 0.14179011876694858
+  lightness: 0.5119743661489338
+  saturation: 0.7299210403580219
+  rhythmicContrast: 0.5882307942956686
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: steady wisdom
